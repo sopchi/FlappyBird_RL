@@ -1,3 +1,10 @@
+# Organisation
+
+- **To have an independant implementation of the agents described in the report got to motebooks/Assignment_notebook**
+
+- All utils functions are un functions, it includes the agent implementation. 
+- Agents.py includes more agent than just the two presented in the report
+
 # Text Flappy Bird for OpenAI Gym
 
 This repository contains the implementation of two OpenAI Gym learning environments of a simple unit-element player version of the Flappy Bird. The code base is heavily borrows from the [flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym) repository.
