@@ -5,7 +5,7 @@ import time
 import text_flappy_bird_gym
 
 from Agents import Agent1,Agent2,GreedyAgent, QLearningAgent
-from utils import mc_prediction, td_prediction, plot_V
+from functions.utils import mc_prediction, td_prediction, plot_V
 
 if __name__ == '__main__':
 
